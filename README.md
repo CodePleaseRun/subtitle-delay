@@ -1,4 +1,4 @@
-## subtitle-delay
+# subtitle-delay
 
 A program written in Python that directly edits SRT file to delay the subtitles.
 
@@ -7,7 +7,7 @@ A program written in Python that directly edits SRT file to delay the subtitles.
 1. Will throw an error if delaying with negative number pushes the initial time-stamp out of bounds.
 2. Can delay subtitles in multiple SRT files at once.
 
-**Cloning repository:**
+## Installation:
 
 ```
 git clone https://github.com/CodePleaseRun/subtitle-delay.git
